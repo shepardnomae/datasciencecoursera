@@ -1,8 +1,3 @@
-title: "R Programming"
-output: html_document
-
-## This is a markdown file
-
-R Programming
-
-# Week 1
+# R Programming  
+## Week 1  
+# sdf  ##sdf  ### sdfsdf  sf
