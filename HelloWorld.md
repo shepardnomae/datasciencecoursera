@@ -26,3 +26,7 @@
 ```> c <- factor(output[c(2)])```  
 ``` sum(c)/nrow(c)```  
 
+### finished week one programming assignment covering:  
+> 1: Basic Building Blocks      2: Workspace and Files        3: Sequences of Numbers 4: Vectors                    5: Missing Values             6: Subsetting Vectors   7: Matrices and Data Frames
+
+  
